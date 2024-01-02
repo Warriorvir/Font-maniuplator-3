@@ -1,0 +1,36 @@
+body{
+    background-image:url("download.jpg");
+    background-size: cover;
+}
+.heading{
+    font-size: 22px;
+    color: green;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px palegreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.note{
+    color: blue;
+}
+.copy_right_footer{
+    position: fixed;
+    color: blue;
+    bottom: 0;
+    background-color: lightcoral;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-size: large;
+    font-style:oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: fit-content;
+    background-image:url("images.jpg");
+    background-size: cover;
+
+}
+canvas{
+    border: 5px aqua;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px gray;
+}
